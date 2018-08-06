@@ -1,0 +1,8 @@
+server:
+  port: 8061
+spring:
+  application:
+    name: ThinkTower
+  cloud:
+    config:
+      enabled: false
